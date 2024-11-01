@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center; 
+    align-items: flex-start; 
+    height: 100vh; /
+}
+
+.container {
+    display: flex; 
+    gap: 20px; 
+}
+
+.container > div {
+    padding: 10px 20px;
+    background-color: orange;
+    
+}
